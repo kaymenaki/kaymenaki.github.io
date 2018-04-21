@@ -9,3 +9,27 @@
     font-weight: bold;
     margin-left: 50px
 }
+
+.check_label_blue { 
+    color: #4f95f7;
+}
+
+.check_label_red { 
+    color: #ff756b;
+}
+
+.check_label_green { 
+    color: #00e461;
+}
+
+.check_label_purple { 
+    color: #896ef6;
+}
+
+.check_label_yellow { 
+    color: #d4c851;
+}
+
+.check_label_orange { 
+    color: #ff9830;
+}

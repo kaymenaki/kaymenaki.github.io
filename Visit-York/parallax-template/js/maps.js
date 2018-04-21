@@ -29,7 +29,7 @@ var customIcons = {
         icon: 'http://maps.google.com/mapfiles/ms/icons/red.png'
     },
     GPSurgery: {
-        icon: 'http://maps.google.com/mapfiles/ms/icons/purple.png'
+        icon: 'http://maps.google.com/mapfiles/ms/icons/orange.png'
     }
 };
 
