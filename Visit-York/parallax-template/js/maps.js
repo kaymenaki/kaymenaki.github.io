@@ -13,30 +13,38 @@ function xmlParse(str) {
 }
 var infoWindow = new google.maps.InfoWindow();
 var customIcons = {
-    monumento: {
+    library: {
         icon: 'http://maps.google.com/mapfiles/ms/icons/blue.png'
     },
-    hotel: {
+    freeWiFi: {
         icon: 'http://maps.google.com/mapfiles/ms/icons/green.png'
     },
-    restaurantes: {
+    gateways: {
         icon: 'http://maps.google.com/mapfiles/ms/icons/yellow.png'
     },
-    museus: {
+    mobileLibrary: {
+        icon: 'http://maps.google.com/mapfiles/ms/icons/purple.png'
+    },
+    attractions: {
+        icon: 'http://maps.google.com/mapfiles/ms/icons/red.png'
+    },
+    GPSurgery: {
         icon: 'http://maps.google.com/mapfiles/ms/icons/purple.png'
     }
 };
 
 var markerGroups = {
-    "museus": [],
-        "monumentos": [],
-        "restaurantes": [],
-        "hotel": []
+    "mobileLibrary": [],
+        "library": [],
+        "gateways": [],
+        "freeWiFi": [],
+        "attractions": [],
+        "GPSurgery": []
 };
 
 function load() {
     var map = new google.maps.Map(document.getElementById("map"), {
-        center: new google.maps.LatLng(38.639104, -8.210413),
+        center: new google.maps.LatLng(53.9623, -1.0819),
         zoom: 12,
         mapTypeId: 'roadmap'
     });
