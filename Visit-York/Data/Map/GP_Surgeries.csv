@@ -1,0 +1,45 @@
+﻿X,Y,OBJECTID,Group_,Address_1,Address_2,Town,Postcode,opening_ho,Saturday,Sunday,Ward
+-1.141175725692451,53.915597652189568,45,Copmanthorpe Surgery,Copmanthorpe Surgery,"Unit 5, The Shopping Precinct, Main Street, Copmanthorpe",York,YO23 3GG,"Mon/Tues/Wed/Fri 8:30am - 12pm, Mon 3pm - 6pm, Thurs 3:15pm - 6pm",Closed,Closed,00FFxx1
+-0.979574936428686,53.965312870596115,46,Mental Health Day Services,Dunnington Surgery,"Petercroft Lane, Dunnington",York,YO19 5NQ,"Mon/Wed/Thurs 8:30am - 6pm, Tues/Fri 8:30am - 12pm",Closed,Closed,00FFxx3
+-1.134935446750874,54.000541391257833,36, ,Skelton Surgery,"St Giles Road, Skelton",York,YO30 1XR,"Mon 2:30pm - 6pm, Tues 8:30am - 12pm, Fri 2:30pm - 6pm",,Closed,00FFPA
+-1.103229373971655,53.944852923159523,40,York Clinic,York Clinic,296 Tadcaster Road,York,YO24 1ET,Mon-Fri 9am - 6pm,9am - 2pm,Closed,00FFNL
+-1.127303346352216,53.954142758991843,19,Independant surgerys,Front Street Surgery,14 Front Street,York,YO24 3BZ,"Mon/Thurs 8am - 7:30pm, Tues/Wed 8am - 6pm, Fri 7am - 6pm",Closed,Closed,00FFPD
+-1.094452689844109,53.971069596796355,20,York Medical Group,Waterlane Practice,Waterlane,York,YO30 6PS,"Mon/Wed 8am - 6pm, Thurs 8am - 7:30pm, Fri 7:30am - 6pm",8am - 1pm,Closed,00FFNJ
+-1.075245351053689,53.946907805534401,5, ,Unity Health,18 Wenlock Terrace,York,YO10 4DU,8am - 6pm,Closed,Closed,00FFNM
+-1.033697482390053,54.039013275769911,15,Independant surgerys,My Health Group,Southfields Road,York,YO32 5UA,"Mon 8am - 7:30pm, Tues-Fri 8am - 6pm",8:30am - 10:30am,Closed,00FFPC
+-1.062673907233186,53.978535423103544,14,Priory Medical Group,Victoria Way Surgery,"2 Victoria Way, Huntington",York,YO32 9GE,8:30am - 6pm,Closed,Closed,00FFNX
+-1.048297740072467,53.956543135404516,13,Priory Medical Group,Tang Hall Lane Surgery,190 Tang Hall Lane,York,YO10 3RL,8:30am - 6pm,Closed,Closed,00FFNW
+-1.055761503852715,53.954565469609939,12,Priory Medical Group,Park View Surgery,"28 Millfield Ave, Hull Road",York,YO10 3AB,8:30am - 6pm,Closed,Closed,00FFNW
+-1.073859783546192,53.93804977768923,11,Priory Medical Group,Fulford Surgery,"2 Fulford Park, Fulford",York,YO10 4QE,8:30am - 6pm,Closed,Closed,00FFxx2
+-1.06881989244396,53.966459991385832,10,Priory Medical Group,Heworth Green Surgery,"45 Heworth Green, Heworth",York,YO31 7SX,"Mon-Thurs 8:30am - 8pm, Fri 8:30am - 6pm. Evenings (6:30pm - 8pm) open for pre-booked appointments only
+",Closed,Closed,00FFNS
+-1.116868935840722,53.963752748336987,9,Priory Medical Group,Lavender Grove Surgery,"1A Lavender Grove, Boroughbridge Road",York,YO26 5RX,8:30am - 6pm,Closed,Closed,00FFNU
+-1.129302283031516,53.949125703656534,6,Priory Medical Group,Priory Medical Centre,"Cornlands Road, Acomb",York,YO24 3WX,"Mon-Thurs 8:30am - 8pm, Fri 8:30am - 6pm","8:30am - 11:15am, evenings (6:30pm - 8pm) open for pre-booked appointments only",Closed,00FFPD
+-1.07640185946548,53.960056562042702,4,Independant surgerys,Jorvik Gillygate Medical Practice,"Woolpack House, The Stonebow",York,YO1 7NP,8am - 6pm,Closed,Closed,00FFNP
+-1.142296955673153,53.915637137819964,1,Old School Medical Practice,Old School Medical Practice,Horseman Lane,York,YO23 3UA,8am - 6pm,Closed,Closed,00FFxx1
+-1.052237246072427,53.946060481354287,2, ,"Unity Health, York Campus","Newton Way, Heslington",York,YO10 5DE,8:30am - 6pm,9am - 1pm,Closed,00FFNW
+-1.034773010165451,53.954322452212466,3, ,Unity Health,289 Hull Rd,York,YO10 3LB,8am - 5:30pm,Closed,Closed,00FFxx3
+-1.082064352455856,54.019348980964274,28,Haxby Group,Wigginton Group Practice,2 The Village,York,YO32 2LL,"Mon-Fri 8am -  6:30pm, Wed 6:30pm - 8:30pm pre-bookable appointments only, telephone calls directed to the Out of Hours service","9am - 12 noon pre-bookable appointments only, telephone calls directed to the Out of Hours service",Closed,00FFNQ
+-1.132088497899495,53.953228359490438,27,Haxby Group,Gale Farm Surgery,"109-119 Front Street, Acomb",York,YO24 3BU,8am - 6pm,"8:30am - 12pm pre-bookable appointments only, telephone calls directed to the Out of Hours service",Closed,00FFPD
+-1.122831769213631,53.935840155897608,25,York Medical Group,Woodthorpe,40 Moocroft Road,York,YO24 2RQ,"Mon/Wed/Fri 8am - 6pm, Tue 8am - 7:30pm, Thurs 7:30am - 6pm
+",Closed,Closed,00FFNL
+-1.099907508204135,53.985365554390562,24,York Medical Group,Peter Gate Surgery,"Tower Court Health Care Center, Oakdale Rd",York,YO30 4RZ,8am - 6pm,closed,Closed,00FFxx4
+-1.076637187469995,53.964058352615865,23,York Medical Group,Monkgate,35 Monkgate,York,YO31 7PB,"Mon 8am - 7:30pm, Tues/Wed 7:30am - 6pm, Thurs/Fri 8am - 6pm",Closed,Closed,00FFNP
+-1.080083937586781,53.964142412174716,22,York Medical Group,St John University,Lord Mayor's Walk,York,YO31 7EX,"Mon/Tue/Thurs/Fri 8am - 4:45pm, Wed 8:30am - 12:45pm",Closed,Closed,00FFNP
+-1.153456581637943,53.980365934615399,32,Haxby Group,The Old Forge Surgery,"The Green, Upper Poppleton, Poppleton",York,YO26 6EQ,8am - 6:30pm,Closed,Closed,00FFPA
+-1.005504378087344,53.993021193488445,31,Haxby Group,Stockton-on-the Forest Surgery,"36 The Village, Stockton-on-the-Forest",York,YO32 9UQ,"Mon/Wed/Thur/Fri 8am - 12:15pm, Tue 2pm - 5:45pm, Thurs 2pm - 5:45pm",Closed,Closed,00FFPC
+-1.075039906082975,53.988542143952294,30,Haxby Group,New Earswick Surgery,"White Rose Avenue, New Earswick",York,YO32 4AG,8am - 6pm,Closed,Closed,00FFNX
+-1.057620296331548,53.998547064918981,29,Haxby Group,Huntington Surgery,1 North Lane Huntington,York,YO32 9RU,"Mon-Fri 8am - 6:30pm, Wed 6:30pm - 8:30pm pre-bookable appointments only, telephone calls directed to the Out of Hours service","9am - 12pm pre-bookable appointments only, telephone calls directed to the Out of Hours service",Closed,00FFNX
+-1.096278689514034,53.922777142050435,33,Old School Medical Practice,Old School Medical Practice,"46 Church Lane, Bishopthorpe",York,YO23 2QG,"Mon/Wed/Thurs/Fri 8am - 12pm, Tues 8am - 12pm",Closed,Closed,00FFNH
+-1.086535160265542,53.944809348514426,34,South Bank Medical Centre,South Bank Medical Centre,175 Bishopthorpe Road,York,YO23 1PD,"Mon 8am - 8pm, Tues - Fri 8am - 6pm",8am - 12pm,Closed,00FFNY
+-1.056241894857024,53.995636457232067,35, ,Huntington Surgery,"Garth Road, Huntington",York,YO32 9QJ,"Mon/Tues/Wed/Fri 8:30am - 11am & 5pm - 5:30pm, Thurs 8:30am - 11am",Closed,Closed,00FFNX
+-1.092748838243012,53.967079984612361,21,York Medical Group,32 Clifton,32 Clifton,York,YO30 6AE,"Mon/Tues 8am - 7:30pm, Wed, Thurs, Fri 8am - 6pm",Closed,Closed,00FFNJ
+-1.119408230226755,53.955921359598982,26,York Medical Group,Acomb Surgery,199 Acomb Road,York,YO24 4HD,"Mon/Wed/Thurs 8am - 6pm, Tues/Fri 7:30am - 6pm every other Tues closing at 7:30pm",8am - 1pm,Closed,00FFNU
+-1.097472403049455,53.973754780089791,7,Priory Medical Group,Rawcliffe Surgery,"Belcombe Way, Water Lane, Clifton",York,YO30 6ND,8:30am - 6pm,Closed,Closed,00FFxx4
+-1.082930421501628,53.951478010993384,8,Priory Medical Group,Clementhorpe Health Centre,Cherry Street,York,YO23 1AP,8:30am - 6pm,Closed,Closed,00FFNY
+-1.063361606624339,53.965698697433055,16,Independant surgerys,East Parade Medical Practice,89 East Parade,York,YO31 7YD,"8:30am - 12:30pm, 2pm - 6pm",Closed,Closed,00FFNS
+-1.096902111576837,53.952258033521872,17,Independant surgerys,Dalton Terrace Surgery,"Glentworth, Dalton Terrace",York,YO24 4DB,8:15am - 6pm,Closed,Closed,00FFNY
+-0.945810588579233,53.924646921898386,44,Elvington Medical Practice,Elvington Medical Centre,"York Road, Elvington",York,YO41 4DY,"Mon 8am - 8pm, 8am - 6:30pm",8am - 10am,Closed,00FFPE
+-1.03010670986159,53.950223008196076,49, ,Kimberlow Hill Surgery,Kimberlow Rise,York,YO10 5LA,Opening March 2018,,Closed,00FFNW
+-0.982125255569072,53.963758348535066,51,Elvington Medical Practice,Dunnington,35 York Street,York,YO19 5QT,Tues/Thurs 8:30am - 12pm,Closed,Closed,00FFxx3
+-0.965353908937433,53.895850851805314,38,Elvington Medical Practice,Doctors Surgery,"54a Main Street, Wheldrake",York,YO19 6AB,"Wed 8:30am - 2:30pm, Fri 8:30am - 3pm",,Closed,00FFPE

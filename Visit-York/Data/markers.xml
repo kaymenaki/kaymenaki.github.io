@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<markers>
+  <marker address="30 Clarence Street, York, YO31 7EW" lat="53.96633384" lng="-1.082545318" name="Sycamore House Reading Cafe" type="library"/>
+  <marker address="Rowntree Park Lodge, Richardson Street, YO23 1JU" lat="53.94891486" lng="-1.082727609" name="Rowntree Park Reading Cafe" type="library"/>
+  <marker address="40 Water End, York, YO30 6LP" lat="53.96942366" lng="-1.102554202" name="Homestead Park Pop-up Reading Cafe" type="library"/>
+  <marker address="Garth Road, Huntington, York, YO32 9QJ" lat="53.99550962" lng="-1.055923426" name="Huntington Library" type="library"/>
+  <marker address="Museum Street, York, YO17DS" lat="53.96142106" lng="-1.086198555" name="York Explore Library" type="library"/>
+  <marker address="Fifth Avenue, Tang Hall, York, YO3 0PR" lat="53.96046335" lng="-1.048949351" name="Tang Hall Explore Library" type="library"/>
+  <marker address="19 The Village, Strensall, York, YO32 5XS" lat="54.03993496" lng="-1.035776028" name="Strensall Library" type="library"/>
+  <marker address="The Village, Upper Poppleton, York, YO26 6JT" lat="53.98411748" lng="-1.154078665" name="Poppleton Library" type="library"/>
+  <marker address="New Earswick Children's Centre, Hawthorn Terrace, New Earswick, York, YO32 4BY" lat="53.99215177" lng="-1.073018683" name="New Earswick Library" type="library"/>
+  <marker address="Social Hall, School Lane, Fulford, York, YO10 4LS" lat="53.93720335" lng="-1.070273489" name="Fulford Library" type="library"/>
+  <marker address="The Reading Room, Church Street, Dunnington, York, YO19 5PW" lat="53.96522356" lng="-0.980516975" name="Dunnington Library" type="library"/>
+  <marker address="Tadcaster Road, Dringhouses, York, YO24 1LR" lat="53.93925109" lng="-1.107737249" name="Dringhouses Library" type="library"/>
+  <marker address="Rawcliffe Lane, Clifton, York, YO30 5SJ" lat="53.97803238" lng="-1.106621594" name="Clifton Explore Library" type="library"/>
+  <marker address="Village Centre, Main Street, Copmanthorpe, York, YO23 3SU" lat="53.91568572" lng="-1.141103321" name="Copmanthorpe Library" type="library"/>
+  <marker address="Main Street, Bishopthorpe, York, YO23 2RB" lat="53.92095305" lng="-1.099750251" name="Bishopthorpe Library" type="library"/>
+  <marker address="Front Street, Acomb, York, YO24 3BZ" lat="53.95363773" lng="-1.129193802" name="Acomb Explore Library" type="library"/>
+  <marker address="Ethel Ward Playing Fields, Haxby, YO32 3NU" lat="54.0139429" lng="-1.070603673" name="Haxby Library at Ethel Ward Playing Fields" type="library"/>
+  <marker address="Wigginton Recreation Hall, The Village, Haxby, YO32 2LL" lat="54.0196233" lng="-1.082677558" name="Haxby Library at Wigginton Recreation Hall" type="library"/>
+  <marker address="Oaken Grove Community Centre, Reid Park, Oaken Grove, YO32 3QW" lat="54.01757285" lng="-1.071812355" name="Haxby Library at Oaken Grove Community Centre" type="library"/>
+  <marker address="Haxby Memorial Hall, 16 The Village, YO32 3HT" lat="54.01641496" lng="-1.073013282" name="Haxby Library at the Memorial Hall" type="library"/>
+  <marker address="Heworth 1: Mistral Court" lat="53.97373598" lng="-1.070519329" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heworth 2: Monkton Road shops" lat="53.97697477" lng="-1.063967115" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heworth 4: Charles Moor" lat="53.97026931" lng="-1.059315195" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Naburn 2: Vicarage Lane" lat="53.90227381" lng="-1.087219574" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Naburn 1: River" lat="53.90248401" lng="-1.091233131" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Naburn" lat="53.90233561" lng="-1.089440372" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Rufforth" lat="53.95663063" lng="-1.197604119" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Rufforth 1: Yew Tree Close" lat="53.95765798" lng="-1.198011123" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Rufforth 2: The Tankard Inn" lat="53.95534872" lng="-1.194077957" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Skelton" lat="53.99895975" lng="-1.131055463" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Skelton 1: Skelton Social Club" lat="54.00039367" lng="-1.135465065" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Skelton 3: Brecksfield" lat="53.99929573" lng="-1.130285695" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Skelton 2: Fairfields Drive" lat="53.99759471" lng="-1.132456818" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Stockton on the Forest" lat="53.99545125" lng="-1.002139451" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Stockton on the Forest 2: School" lat="53.9980775" lng="-1.000185015" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Stockton on the Forest 3: The Rectory" lat="53.99990328" lng="-0.994939023" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Stockton on the Forest: Westfield House" lat="54.00309602" lng="-0.98981204" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Stockton on the Forest 1: Stone Riggs" lat="53.99305784" lng="-1.000747598" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Wheldrake 2: Cranbrooks" lat="53.8965697" lng="-0.969859715" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Wheldrake 3: Valley View" lat="53.89471108" lng="-0.974288075" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Wheldrake 5: White Rose House" lat="53.89641139" lng="-0.962954552" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Wheldrake 4: Back Lane South" lat="53.89468668" lng="-0.965158141" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Wheldrake 1: Courtneys" lat="53.89805216" lng="-0.963522682" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Wheldrake" lat="53.89636877" lng="-0.96426437" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Woodthorpe" lat="53.93798656" lng="-1.122603868" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Woodthorpe 1: Moorcroft Road" lat="53.93554618" lng="-1.123203412" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Woodthorpe 2: Ryecroft Avenue" lat="53.9375133" lng="-1.12920965" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Osbaldwick" lat="53.95861484" lng="-1.034765625" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Osbaldwick 1: Thirkleby Way" lat="53.957342" lng="-1.034078726" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Osbaldwick 2: The Village" lat="53.9593503" lng="-1.033453155" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Osbaldwick 3: The Leyes" lat="53.95655566" lng="-1.035773296" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Osbaldwick 4: Eskdale Avenue" lat="53.95552497" lng="-1.035019851" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Osbaldwick 5: Campbell Court" lat="53.95801552" lng="-1.044121898" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Lamel Beeches area" lat="53.95178923" lng="-1.065227982" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Knapton area" lat="53.96166045" lng="-1.146764429" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Huntington area" lat="53.98505809" lng="-1.062249969" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Hopgrove area" lat="53.98733228" lng="-1.025229484" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Foxwood area" lat="53.94078131" lng="-1.129788574" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Crockey Hill area" lat="53.90971379" lng="-1.050204349" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Chapelfields area" lat="53.95350734" lng="-1.1399224" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Burton Stone area" lat="53.97392765" lng="-1.089937412" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Boroughbridge Road area" lat="53.96402635" lng="-1.118224114" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Badger Hill area" lat="53.95350074" lng="-1.035959604" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Appletree Village area" lat="53.96396262" lng="-1.041613388" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Stockton Lane area" lat="53.97464917" lng="-1.042017629" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Holtby area" lat="53.97957496" lng="-0.972700769" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Murton area" lat="53.96696975" lng="-1.011487482" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Kexby area" lat="53.95014185" lng="-0.933058456" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Deighton area" lat="53.88990427" lng="-1.047057656" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Acaster Malbis area" lat="53.89627748" lng="-1.103909897" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Askham Bryan area" lat="53.92909793" lng="-1.15878003" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Askham Richard area" lat="53.92457696" lng="-1.183840319" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Hessay area" lat="53.97344446" lng="-1.204730596" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Dringhouses 1: Honeysuckle House" lat="53.93871965" lng="-1.120836653" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Dringhouses 2: Lovel House" lat="53.94211789" lng="-1.123400807" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Elvington" lat="53.9235015" lng="-0.94024835" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Elvington 4: Elvington Park" lat="53.92476703" lng="-0.952338208" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Elvington 1: Lorraine Avenue" lat="53.92236814" lng="-0.939134975" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Elvington 3: Elvington Primary School (term time)" lat="53.92406455" lng="-0.940904135" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Elvington 2: Grey Horse" lat="53.92050074" lng="-0.935314654" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heslington" lat="53.94568932" lng="-1.045942524" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heslington 1: Heslington Court" lat="53.94478211" lng="-1.042626609" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heslington 2: Memorial Cottages" lat="53.94344032" lng="-1.043434321" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heslington 3: Peel Close" lat="53.94265979" lng="-1.050414524" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heworth 3: Langley House" lat="53.96785328" lng="-1.068775179" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heworth 5: Field Court" lat="53.96801724" lng="-1.054091428" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="Heworth" lat="53.97078018" lng="-1.062581397" name="Mobile Library" type="mobileLibrary"/>
+  <marker address="" lat="53.96270231" lng="-1.085039731" name="Bootham Bar" type="gateways"/>
+  <marker address="" lat="53.96272726" lng="-1.078535021" name="Monk Bar" type="gateways"/>
+  <marker address="" lat="53.95416683" lng="-1.08672647" name="Victoria Bar" type="gateways"/>
+  <marker address="" lat="53.9551716" lng="-1.070768412" name="Walmgate Bar" type="gateways"/>
+  <marker address="" lat="53.95396546" lng="-1.075236851" name="Fishergate Bar" type="gateways"/>
+  <marker address="" lat="53.9558495" lng="-1.090874256" name="Micklegate Bar" type="gateways"/>
+  <marker address="Rawcliffe Bar Park and Ride" lat="53.98428887" lng="-1.122869241" name="Park and Ride" type="freeWiFi"/>
+  <marker address="12 Coney St Wall mount Lamp" lat="53.95960695" lng="-1.08449994" name="City Connect" type="freeWiFi"/>
+  <marker address="Sandersons Court" lat="53.95423663" lng="-1.139775324" name="BDUK" type="freeWiFi"/>
+  <marker address="47 Shambles Wall mount Lamp" lat="53.95977668" lng="-1.080386366" name="City Connect" type="freeWiFi"/>
+  <marker address="Castlegate" lat="53.95720806" lng="-1.080206577" name="BDUK" type="freeWiFi"/>
+  <marker address="1 Parliament St CCTV Pole" lat="53.95843935" lng="-1.080307881" name="City Connect" type="freeWiFi"/>
+  <marker address="34 Goodramsgate Lamppost" lat="53.96185454" lng="-1.079623684" name="City Connect" type="freeWiFi"/>
+  <marker address="Registrars" lat="53.96418109" lng="-1.088138216" name="Corporate" type="freeWiFi"/>
+  <marker address="1 Stonegate Wall mount Lamp" lat="53.96034641" lng="-1.084140912" name="City Connect" type="freeWiFi"/>
+  <marker address="Tang Hall Community Centre" lat="53.95984541" lng="-1.057945187" name="BDUK" type="freeWiFi"/>
+  <marker address="10 Newgate Wall mount Lamp" lat="53.95962289" lng="-1.080697561" name="City Connect" type="freeWiFi"/>
+  <marker address="Askham Bar Park and Ride" lat="53.92883845" lng="-1.116969983" name="Park and Ride" type="freeWiFi"/>
+  <marker address="Barstow House" lat="53.95285055" lng="-1.08660084" name="BDUK" type="freeWiFi"/>
+  <marker address="22 Lendl Wall mount Lamp" lat="53.96005856" lng="-1.084802541" name="City Connect" type="freeWiFi"/>
+  <marker address="Sycamore House" lat="53.9663272" lng="-1.082495359" name="Corporate" type="freeWiFi"/>
+  <marker address="68 Centre" lat="53.97877189" lng="-1.060378655" name="BDUK" type="freeWiFi"/>
+  <marker address="Yorkcraft" lat="53.93266892" lng="-1.112143044" name="Corporate" type="freeWiFi"/>
+  <marker address="1 Bridge St Wall mount Lamp" lat="53.95728393" lng="-1.084461825" name="City Connect" type="freeWiFi"/>
+  <marker address="Fulford Library" lat="53.93708176" lng="-1.070400364" name="Libraries" type="freeWiFi"/>
+  <marker address="Marjorie Waitie Court" lat="53.97422073" lng="-1.090012964" name="BDUK" type="freeWiFi"/>
+  <marker address="Cedar Court Lamppost" lat="53.95874987" lng="-1.089390741" name="City Connect" type="freeWiFi"/>
+  <marker address="Station Rise (West Offices)" lat="53.95833497" lng="-1.089843479" name="City Connect" type="freeWiFi"/>
+  <marker address="8 Parliament St Wall mount Lamp" lat="53.9585263" lng="-1.080907157" name="City Connect" type="freeWiFi"/>
+  <marker address="Dunnington Library" lat="53.96528827" lng="-0.980215017" name="Libraries" type="freeWiFi"/>
+  <marker address="Deangate Lamppost" lat="53.96190102" lng="-1.080109404" name="City Connect" type="freeWiFi"/>
+  <marker address="1 Nessgate Wall mount Lamp" lat="53.95786125" lng="-1.082302858" name="City Connect" type="freeWiFi"/>
+  <marker address="Royal York Hotel Lamppost" lat="53.95856583" lng="-1.091467311" name="City Connect" type="freeWiFi"/>
+  <marker address="Rougier House" lat="53.95875455" lng="-1.087487978" name="Corporate" type="freeWiFi"/>
+  <marker address="New Earswick Library" lat="53.99232622" lng="-1.073017238" name="Libraries" type="freeWiFi"/>
+  <marker address="21 Davygate CCTV Camera mount" lat="53.95944695" lng="-1.082069255" name="City Connect" type="freeWiFi"/>
+  <marker address="14 Swinegate CCTV Camera Mount" lat="53.96040581" lng="-1.081930106" name="City Connect" type="freeWiFi"/>
+  <marker address="13 Shambles Wall mount Lamp" lat="53.95948417" lng="-1.080132966" name="City Connect" type="freeWiFi"/>
+  <marker address="Guidhall" lat="53.95968948" lng="-1.085476291" name="Corporate" type="freeWiFi"/>
+  <marker address="14 Blake St Wall mount Lamp" lat="53.96063104" lng="-1.084612349" name="City Connect" type="freeWiFi"/>
+  <marker address="Museum St/Lendl Lamppost" lat="53.9606668" lng="-1.086473261" name="City Connect" type="freeWiFi"/>
+  <marker address="Monks Cross Park and Ride" lat="53.98291478" lng="-1.052190636" name="Park and Ride" type="freeWiFi"/>
+  <marker address="Museum Gardens" lat="53.96132862" lng="-1.089523993" name="City Connect" type="freeWiFi"/>
+  <marker address="Melbourne Centre" lat="53.9516875" lng="-1.07408367" name="BDUK" type="freeWiFi"/>
+  <marker address="Mansion House Rooftop" lat="53.95992635" lng="-1.084735903" name="City Connect" type="freeWiFi"/>
+  <marker address="Willow House" lat="53.95465049" lng="-1.071751078" name="EPH" type="freeWiFi"/>
+  <marker address="39 Micklegate Wall mount Lamp" lat="53.95722352" lng="-1.086471381" name="City Connect" type="freeWiFi"/>
+  <marker address="23 Coney St Wall mount Lamp" lat="53.9587004" lng="-1.083619553" name="City Connect" type="freeWiFi"/>
+  <marker address="Hazel Court" lat="53.95912583" lng="-1.064095576" name="Corporate" type="freeWiFi"/>
+  <marker address="Windsor House" lat="53.94830801" lng="-1.12027813" name="EPH" type="freeWiFi"/>
+  <marker address="Tanners Moat Lamppost" lat="53.95953975" lng="-1.087705993" name="City Connect" type="freeWiFi"/>
+  <marker address="Honeysuckle House" lat="53.93851841" lng="-1.120832087" name="BDUK" type="freeWiFi"/>
+  <marker address="Zone 13 - 20 Pavement Lamppost" lat="53.95886146" lng="-1.079669378" name="City Connect" type="freeWiFi"/>
+  <marker address="Acomb Library" lat="53.95365518" lng="-1.12931759" name="Libraries" type="freeWiFi"/>
+  <marker address="Poppleton Bar Park and Ride" lat="53.97305769" lng="-1.149804356" name="Park and Ride" type="freeWiFi"/>
+  <marker address="Poppleton Library" lat="53.98412272" lng="-1.154041878" name="Libraries" type="freeWiFi"/>
+  <marker address="Zone 6 - 15 Parliament St Wall mount Lamp" lat="53.95911421" lng="-1.081704112" name="City Connect" type="freeWiFi"/>
+  <marker address="Foxwood Community Centre" lat="53.94076469" lng="-1.129793938" name="BDUK" type="freeWiFi"/>
+  <marker address="Grimston Bar Park and Ride" lat="53.95457145" lng="-1.019449259" name="Park and Ride" type="freeWiFi"/>
+  <marker address="Nursey Drive" lat="53.95240234" lng="-1.113061446" name="Corporate" type="freeWiFi"/>
+  <marker address="Alex Lyon House" lat="53.9598939" lng="-1.059280339" name="BDUK" type="freeWiFi"/>
+  <marker address="13 Market St Wall mount Lamp" lat="53.95864437" lng="-1.082285949" name="City Connect" type="freeWiFi"/>
+  <marker address="City Mills" lat="53.95478014" lng="-1.082574901" name="BDUK" type="freeWiFi"/>
+  <marker address="Woolnough House" lat="53.9544398" lng="-1.042262959" name="EPH" type="freeWiFi"/>
+  <marker address="Minster Yard (Left of Minster) lamppost" lat="53.96176505" lng="-1.082436706" name="City Connect" type="freeWiFi"/>
+  <marker address="Silver St Wall mount Lamp" lat="53.95937724" lng="-1.081080129" name="City Connect" type="freeWiFi"/>
+  <marker address="The Glebe" lat="53.96537838" lng="-0.981409169" name="BDUK" type="freeWiFi"/>
+  <marker address="1 St Saviourgate CCTV Pole" lat="53.95913259" lng="-1.079133768" name="City Connect" type="freeWiFi"/>
+  <marker address="13 Bridge St Wall mount Lamp" lat="53.95720599" lng="-1.084976524" name="City Connect" type="freeWiFi"/>
+  <marker address="65 Goodramsgate Wall mount Lamp" lat="53.96066056" lng="-1.080001086" name="City Connect" type="freeWiFi"/>
+  <marker address="Kings Court" lat="53.95980098" lng="-1.080402101" name="Corporate" type="freeWiFi"/>
+  <marker address="2 Rougier St Lamppost" lat="53.95912382" lng="-1.088633557" name="City Connect" type="freeWiFi"/>
+  <marker address="Haxby Hall" lat="54.01568602" lng="-1.071421738" name="EPH" type="freeWiFi"/>
+  <marker address="Poppleton Memorial Hall" lat="53.96145078" lng="-1.112504243" name="BDUK" type="freeWiFi"/>
+  <marker address="Clifton Library" lat="53.97792833" lng="-1.106520091" name="Libraries" type="freeWiFi"/>
+  <marker address="Clements Hall Community Centre" lat="53.95287543" lng="-1.08905796" name="BDUK" type="freeWiFi"/>
+  <marker address="Huntington Library" lat="53.99540808" lng="-1.055858859" name="Libraries" type="freeWiFi"/>
+  <marker address="Duncombe Place lamppost" lat="53.96200915" lng="-1.083737843" name="City Connect" type="freeWiFi"/>
+  <marker address="1 Coppergate CCTV Pole" lat="53.9575026" lng="-1.081683573" name="City Connect" type="freeWiFi"/>
+  <marker address="Tang Hall Library" lat="53.9603698" lng="-1.048893478" name="Libraries" type="freeWiFi"/>
+  <marker address="Oaken Grove Community Centre" lat="54.01753475" lng="-1.071468565" name="BDUK" type="freeWiFi"/>
+  <marker address="Rowntrees Park Cafe" lat="53.94880885" lng="-1.082730063" name="Libraries" type="freeWiFi"/>
+  <marker address="Museum Gardens" lat="53.96116671" lng="-1.088040333" name="City Connect" type="freeWiFi"/>
+  <marker address="Burtonstone Community Centre" lat="53.9743906" lng="-1.089794274" name="BDUK" type="freeWiFi"/>
+  <marker address="York Stn Lamppost" lat="53.95787885" lng="-1.092112318" name="City Connect" type="freeWiFi"/>
+  <marker address="Bell Farm Community Centre" lat="53.97755243" lng="-1.067968579" name="BDUK" type="freeWiFi"/>
+  <marker address="6 Grape Lane Wall mount Bracket" lat="53.96090146" lng="-1.081895775" name="City Connect" type="freeWiFi"/>
+  <marker address="Museum Gardens" lat="53.96077381" lng="-1.086624848" name="City Connect" type="freeWiFi"/>
+  <marker address="Ordance Lane" lat="53.94614268" lng="-1.075211334" name="BDUK" type="freeWiFi"/>
+  <marker address="Museum Gardens" lat="53.96189957" lng="-1.087798799" name="City Connect" type="freeWiFi"/>
+  <marker address="West Offices" lat="53.95822498" lng="-1.089652947" name="Corporate" type="freeWiFi"/>
+  <marker address="26 Davygate Wall mount Lamp" lat="53.95949266" lng="-1.082478761" name="City Connect" type="freeWiFi"/>
+  <marker address="Eccles centre" lat="53.96410489" lng="-1.049052887" name="Corporate" type="freeWiFi"/>
+  <marker address="Grove House" lat="53.96585901" lng="-1.077903765" name="EPH" type="freeWiFi"/>
+  <marker address="Moorlane Youth Centre" lat="53.93856985" lng="-1.121653529" name="BDUK" type="freeWiFi"/>
+  <marker address="Compmanthorpe Library" lat="53.91542884" lng="-1.14120739" name="Libraries" type="freeWiFi"/>
+  <marker address="1 Davygate CCTV Pole" lat="53.96014888" lng="-1.084115642" name="City Connect" type="freeWiFi"/>
+  <marker address="54 Low Petergate Wall mount Lamp" lat="53.96120965" lng="-1.081653533" name="City Connect" type="freeWiFi"/>
+  <marker address="10 Pavement Wall mount Lamp" lat="53.95859109" lng="-1.079788758" name="City Connect" type="freeWiFi"/>
+  <marker address="Delwood" lat="53.93427271" lng="-1.072916828" name="BDUK" type="freeWiFi"/>
+  <marker address="York Explore" lat="53.96139888" lng="-1.086193948" name="Libraries" type="freeWiFi"/>
+  <marker address="4 Spurriergate CCTV Camera mount" lat="53.95827605" lng="-1.082983508" name="City Connect" type="freeWiFi"/>
+  <marker address="Dringhouses Library" lat="53.93915415" lng="-1.107715255" name="Libraries" type="freeWiFi"/>
+  <marker address="23 Shambles Wall mount Lamp" lat="53.9590802" lng="-1.079896213" name="City Connect" type="freeWiFi"/>
+  <marker address="Oakhaven" lat="53.95631332" lng="-1.119054022" name="EPH" type="freeWiFi"/>
+  <marker address="Morrell House" lat="53.97918408" lng="-1.084413027" name="EPH" type="freeWiFi"/>
+  <marker address="Designer Outlet Park and Ride" lat="53.92401234" lng="-1.077178761" name="Park and Ride" type="freeWiFi"/>
+  <marker address="Museum Gardens" lat="53.96076616" lng="-1.086674015" name="City Connect" type="freeWiFi"/>
+  <marker address="Lincoln Court" lat="53.94847598" lng="-1.120789269" name="BDUK" type="freeWiFi"/>
+  <marker address="Stn Rise/Stn Ave CCTV Pole" lat="53.95923217" lng="-1.090212147" name="City Connect" type="freeWiFi"/>
+  <marker address="15 Coney St Wall mount Lamp" lat="53.95923568" lng="-1.084240748" name="City Connect" type="freeWiFi"/>
+  <marker address="Strensall Library" lat="54.03995252" lng="-1.035701072" name="Libraries" type="freeWiFi"/>
+  <marker address="Energise" lat="53.94798437" lng="-1.128774585" name="Corporate" type="freeWiFi"/>
+  <marker address="2 Minster Yard Lamppost" lat="53.9614577" lng="-1.082289537" name="City Connect" type="freeWiFi"/>
+  <marker address="28 Stonegate CCTV Camera Mount" lat="53.96073831" lng="-1.083533488" name="City Connect" type="freeWiFi"/>
+  <marker address="28 Stonegate CCTV Camera Mount" lat="53.96015372" lng="-1.08270681" name="City Connect" type="freeWiFi"/>
+  <marker address="Haxby Libraary" lat="54.01597022" lng="-1.068747185" name="Libraries" type="freeWiFi"/>
+  <marker address="Museum Gardens" lat="53.96115953" lng="-1.087963739" name="City Connect" type="freeWiFi"/>
+  <marker address="Lovel House" lat="53.94217919" lng="-1.123438623" name="BDUK" type="freeWiFi"/>
+  <marker address="Minster Yard (Right of Minster) lamppost" lat="53.96164159" lng="-1.081602357" name="City Connect" type="freeWiFi"/>
+  <marker address="27 Goodramsgate Wall mount Lamp" lat="53.96199161" lng="-1.079290137" name="City Connect" type="freeWiFi"/>
+  <marker address="1 Museum St Lamppost" lat="53.96135174" lng="-1.084998877" name="City Connect" type="freeWiFi"/>
+  <marker address="15 Davygate Wall mount Lamp" lat="53.95981037" lng="-1.083366492" name="City Connect" type="freeWiFi"/>
+  <marker address="Priory Street" lat="53.95605812" lng="-1.088007045" name="BDUK" type="freeWiFi"/>
+  <marker address="Clementhorpe Community Centre" lat="53.95145685" lng="-1.082498439" name="BDUK" type="freeWiFi"/>
+  <marker address="6 Nessgate Wall mount Lamp" lat="53.95755378" lng="-1.082140117" name="City Connect" type="freeWiFi"/>
+  <marker address="1 Kings Square CCTV Camera Mount" lat="53.9603187" lng="-1.080358655" name="City Connect" type="freeWiFi"/>
+  <marker address="Deangate, York YO1 7HH" lat="53.9623" lng="-1.0819" name="York Minster" type="attractions"/>
+  <marker address="19 Coppergate, York YO1 9WT" lat="53.9574" lng="-1.0803" name="Jorvik Viking Centre" type="attractions"/>
+  <marker address="Tower St, York YO1 9SA" lat="53.9558" lng="-1.0799" name="York Castle" type="attractions"/>
+  <marker address="Tower St, York YO1 9RY" lat="53.9556" lng="-1.0783" name="York city walls" type="attractions"/>
+  <marker address="Museum St, York YO1 7FR" lat="53.9615" lng="-1.0883" name="York Museum Gardens" type="attractions"/>
+  <marker address="Leeman Rd, York YO26 4XJ" lat="53.9605" lng="-1.0964" name="National Railway Museum" type="attractions"/>
+  <marker address="3-4 Kings Square, York YO1 7LD" lat="53.96" lng="-1.0804" name="York's Chocolate Story" type="attractions"/>
+  <marker address="12 Clifford St, York YO1 9RD" lat="53.9568" lng="-1.0819" name="York Dungeon" type="attractions"/>
+  <marker address="Castle Howard, York YO60 7DA" lat="54.1218" lng="-0.9061" name="Castle Howard" type="attractions"/>
+  <marker address="Exhibition Square, York YO1 7EW" lat="53.963" lng="-1.0863" name="York Art Gallery" type="attractions"/>
+  <marker address="YO23 3GG" lat="53.91559765" lng="-1.141175726" name="Copmanthorpe Surgery" type="GPSurgery"/>
+  <marker address="YO19 5NQ" lat="53.96531287" lng="-0.979574936" name="Mental Health Day Services" type="GPSurgery"/>
+  <marker address="YO30 1XR" lat="54.00054139" lng="-1.134935447" name="" type="GPSurgery"/>
+  <marker address="YO24 1ET" lat="53.94485292" lng="-1.103229374" name="York Clinic" type="GPSurgery"/>
+  <marker address="YO24 3BZ" lat="53.95414276" lng="-1.127303346" name="Independant surgerys" type="GPSurgery"/>
+  <marker address="YO30 6PS" lat="53.9710696" lng="-1.09445269" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO10 4DU" lat="53.94690781" lng="-1.075245351" name="" type="GPSurgery"/>
+  <marker address="YO32 5UA" lat="54.03901328" lng="-1.033697482" name="Independant surgerys" type="GPSurgery"/>
+  <marker address="YO32 9GE" lat="53.97853542" lng="-1.062673907" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO10 3RL" lat="53.95654314" lng="-1.04829774" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO10 3AB" lat="53.95456547" lng="-1.055761504" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO10 4QE" lat="53.93804978" lng="-1.073859784" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO31 7SX" lat="53.96645999" lng="-1.068819892" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO26 5RX" lat="53.96375275" lng="-1.116868936" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO24 3WX" lat="53.9491257" lng="-1.129302283" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO1 7NP" lat="53.96005656" lng="-1.076401859" name="Independant surgerys" type="GPSurgery"/>
+  <marker address="YO23 3UA" lat="53.91563714" lng="-1.142296956" name="Old School Medical Practice" type="GPSurgery"/>
+  <marker address="YO10 5DE" lat="53.94606048" lng="-1.052237246" name="" type="GPSurgery"/>
+  <marker address="YO10 3LB" lat="53.95432245" lng="-1.03477301" name="" type="GPSurgery"/>
+  <marker address="YO32 2LL" lat="54.01934898" lng="-1.082064352" name="Haxby Group" type="GPSurgery"/>
+  <marker address="YO24 3BU" lat="53.95322836" lng="-1.132088498" name="Haxby Group" type="GPSurgery"/>
+  <marker address="YO24 2RQ" lat="53.93584016" lng="-1.122831769" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO30 4RZ" lat="53.98536555" lng="-1.099907508" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO31 7PB" lat="53.96405835" lng="-1.076637187" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO31 7EX" lat="53.96414241" lng="-1.080083938" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO26 6EQ" lat="53.98036593" lng="-1.153456582" name="Haxby Group" type="GPSurgery"/>
+  <marker address="YO32 9UQ" lat="53.99302119" lng="-1.005504378" name="Haxby Group" type="GPSurgery"/>
+  <marker address="YO32 4AG" lat="53.98854214" lng="-1.075039906" name="Haxby Group" type="GPSurgery"/>
+  <marker address="YO32 9RU" lat="53.99854706" lng="-1.057620296" name="Haxby Group" type="GPSurgery"/>
+  <marker address="YO23 2QG" lat="53.92277714" lng="-1.09627869" name="Old School Medical Practice" type="GPSurgery"/>
+  <marker address="YO23 1PD" lat="53.94480935" lng="-1.08653516" name="South Bank Medical Centre" type="GPSurgery"/>
+  <marker address="YO32 9QJ" lat="53.99563646" lng="-1.056241895" name="" type="GPSurgery"/>
+  <marker address="YO30 6AE" lat="53.96707998" lng="-1.092748838" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO24 4HD" lat="53.95592136" lng="-1.11940823" name="York Medical Group" type="GPSurgery"/>
+  <marker address="YO30 6ND" lat="53.97375478" lng="-1.097472403" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO23 1AP" lat="53.95147801" lng="-1.082930422" name="Priory Medical Group" type="GPSurgery"/>
+  <marker address="YO31 7YD" lat="53.9656987" lng="-1.063361607" name="Independant surgerys" type="GPSurgery"/>
+  <marker address="YO24 4DB" lat="53.95225803" lng="-1.096902112" name="Independant surgerys" type="GPSurgery"/>
+  <marker address="YO41 4DY" lat="53.92464692" lng="-0.945810589" name="Elvington Medical Practice" type="GPSurgery"/>
+  <marker address="YO10 5LA" lat="53.95022301" lng="-1.03010671" name="" type="GPSurgery"/>
+  <marker address="YO19 5QT" lat="53.96375835" lng="-0.982125256" name="Elvington Medical Practice" type="GPSurgery"/>
+  <marker address="YO19 6AB" lat="53.89585085" lng="-0.965353909" name="Elvington Medical Practice" type="GPSurgery"/>
+</markers>

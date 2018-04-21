@@ -1,0 +1,6 @@
+"KpiId","KpiName","Value","DataType","Period","StartDate","EndDate","CollectionFrequency"
+"PHOF36","Life Expectancy at birth - Male","79.40 Number","Number","2011/2012","2011-04-01","2012-03-31","Annual"
+"PHOF36","Life Expectancy at birth - Male","79.60 Number","Number","2012/2013","2012-04-01","2013-03-31","Annual"
+"PHOF36","Life Expectancy at birth - Male","79.40 Number","Number","2013/2014","2013-04-01","2014-03-31","Annual"
+"PHOF36","Life Expectancy at birth - Male","80.10 Number","Number","2014/2015","2014-04-01","2015-03-31","Annual"
+"PHOF36","Life Expectancy at birth - Male","80.20 Number","Number","2015/2016","2015-04-01","2016-03-31","Annual"
