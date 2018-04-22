@@ -33,3 +33,194 @@
 .check_label_orange { 
     color: #ff9830;
 }
+
+/* basic reset */
+* { 
+   box-sizing: border-box; 
+}
+body,
+html,
+#wrapper { 
+   height: 100%; 
+}
+/* variables */ 
+$border-black: 1px solid rgba(0,0,0,.2);
+/* styles */
+#wrapper {
+   position: relative;
+   background-color: #456789;
+   background-size: cover;
+   font: 800 20px/1.2 'Arvo', serif;
+   color: rgba(0,0,0,.8);
+   padding-top: 50px;
+   
+   &.Mist,
+   &.Haze,
+   &.Fog, 
+   &.Smoke {
+      background-image: url(https://images.unsplash.com/33/U6XzvTb5RmuqrfNkQI0l_IMG_1861.jpg?dpr=1&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=)
+   }
+   
+   &.Clear {
+      background-image: url(https://images.unsplash.com/photo-1415695989345-dcf757ebb173?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=836&q=80&cs=tinysrgb);
+   }
+   
+   &.Rain,
+   &.Drizzle {
+      background-image: url(https://images.unsplash.com/photo-1428592953211-077101b2021b?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1125&q=80&cs=tinysrgb);
+   }
+   
+   &.Clouds {
+      background-image: url("https://images.unsplash.com/photo-1448032279986-c25cf997c38e?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1125&q=80&cs=tinysrgb")
+   }
+   
+   &.Thunderstorm,
+   &.Extreme {
+      background-image: url("https://images.unsplash.com/photo-1429552054921-018e433d7d34?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=993&q=80&cs=tinysrgb")
+   }
+   
+   &.Snow {
+      background-image: url("https://images.unsplash.com/photo-1470102008679-243edbe1039a?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb")
+   }
+   
+   &.Atmosphere {
+      background-image: url("https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb")
+   }
+   
+   .widget {
+      position:absolute;
+      top: 50%;
+      left: 50%;
+      margin: -250px 0 0 -200px;
+      width: 400px;
+      height: 500px;
+      background: rgba(255,255,255,.5);
+      border-radius: 5px;
+      box-shadow: 0 0 50px rgba(0,0,0,.5);
+      
+      .block {
+         position: relative;
+         float: left;
+         width: 200px;
+         height: 200px;
+         text-align: center;
+         padding: 15px;
+         margin-bottom: -1px;
+         border-bottom: $border-black;
+         
+         &:nth-child(odd) {
+            border-right: $border-black;
+         }
+      }
+      
+      .header {
+         position: relative;
+         min-height: 55px;
+         padding: 15px;
+         border-bottom: $border-black;
+         
+         .location {
+            float: left;
+            max-width: 250px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+         }
+         
+         .date {
+            float: right;
+         }
+      }
+      
+      .humidity,
+      .temp {
+         font-size: 500%;
+         margin: 6px auto;
+      }
+      
+      .icon img {
+         width: 40%;
+         margin: 30px 0;
+      }
+      
+      .wind-direction {
+         font-size: 400%;
+         margin: 16px auto;
+         padding: 5px;
+         border-radius: 50%;
+         border: $border-black;
+         background: rgba(255,255,255,.8);
+         width: 100px;
+         height: 100px;
+         transform: rotate(0deg);
+         transition: transform 1s ease-in-out;
+      }
+      
+      .key {
+         font-size: 70%;
+      }
+      
+      .weather {
+         
+         .detailed-overview {
+            text-transform: capitalize;
+         }
+      }
+      
+      input {
+         width: 100%;
+         padding: 14px;
+         border: $border-black;
+         border-radius: 0 0 5px 5px;
+         background: rgba(255,255,255,0.8);
+         font-weight: 400;
+         font-size: 80%;
+         text-align: center;
+         
+         &:focus {
+            outline: 0;
+         }
+      }
+   }
+   
+   .usecurrentlocation {
+      width: 25px;
+      position: absolute;
+      bottom: 10px;
+      right: 15px;
+      opacity: .4;
+      transition: opacity 0.3s ease-in-out;
+      
+      &:hover {
+         cursor: pointer;
+         opacity: .6;
+      }
+   }
+}
+
+.loading {
+   position: absolute;
+   top: 50%;
+   margin-top: -15px;
+   left: 50%;
+   margin-left: -15px;
+   border: 2px dashed #fff;
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+   box-shadow: 0 0 10px rgba(0,0,0,.2);
+   animation: loading 2s infinite;
+}
+
+/* animation */
+@keyframes loading {
+   0% {
+      transform:rotate(0deg);
+   }
+   50% {
+      transform:rotate(180deg);
+   }
+   100% {
+      transform:rotate(360deg);
+   }
+}
