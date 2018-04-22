@@ -17,14 +17,12 @@
 
   <!--CHARTS-->
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
   
 </head>
 <body>
-  <nav class="white" role="navigation">
-    <div class="nav-wrapper container">
-      <span id="logo-container" href="#" class="brand-logo"><img src="logo.jpg" style="height: 60px"alt="Logo"></span>
-    </div>
-  </nav>
+  
 
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
@@ -78,12 +76,14 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">Short term or long term worth to visit it</h5>
+          
+          <h5 class="header col s12 bold" style="background-color: #ffffff; border: 1px solid black;
+  opacity: 0.9; padding-bottom: 30px;"><br/>Short term or long term worth to visit it</h5>
           
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax"><img style="opacity: 0.8" src="background2.jpg" alt="York map"></div>
   </div>
 
   <div class="container">
@@ -93,7 +93,8 @@
       <div class="row">
         <div class="col s12 center">
           <div class="map_wrap">
-            <h5 class="center">The interactive map below, will help you find the right spots for you</h5>
+            <h5 class="center">Use the interactive map below, to the right spots for you</h5>
+            <br/>
             <span class="check_label check_label_red">Attractions</span><input id="attractionsCheckbox" type="checkbox" onclick="toggleGroup('attractions')" checked="checked"></input>
             <span class="check_label check_label_yellow">Gateways</span><input id="gatewaysCheckbox" type="checkbox" onclick="toggleGroup('gateways')" checked="checked"></input>
             <span class="check_label check_label_blue">Libraries</span><input id="libraryCheckbox" type="checkbox" onclick="toggleGroup('library')" checked="checked"></input>
@@ -124,7 +125,8 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+          <h5 class="header col s12 bold" style="background-color: #ffffff; border: 1px solid black;
+  opacity: 0.9; padding-bottom: 30px;"><br/>York becomes popular destination for tourists, students and professionals</h5>
         </div>
       </div>
     </div>
@@ -135,27 +137,31 @@
   <!-- BAR CHARTS-->
   <div class="row">
         
-        <div class="col s12 m6">
+        <div class="col s12 m12">
           <div class="icon-block">
             <h2 class="center brown-text"><i class="material-icons">group</i></h2>
             <h5 class="center">York's long term population projection</h5>
-             <div id="chart_div"></div>
+            <div style="width: 100%" id="chart_div"></div>
           </div>
          
         </div>
-
-        <div class="col s12 m6">
+  </div>
+  
+  <div class="row" 
+        <div class="col s12 m12">
           <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">network_check</i></h2>
-            <h5 class="center">The Gigabit city</h5>
-            <p class="light" style="text-align: justify;">York is at the cutting edge of digital connectivity. After a decade of investment, York is leading the way with the best digital infrastructure in the UK. Interwoven with the city’s historic walls is one of the most extensive dark fibre networks in the UK, linking all public buildings, and accessible to businesses right across the city.</p>
-            <p class="light" style="text-align: justify;">Connected to the northern internet exchange platform, York offers high speed, highly resilient, and secure infrastructure on which to operate business critical internet services. The only exchange operator outside the capital, the network gives York and the North of England complete independence from London.</p>
-            <p class="light" style="text-align: justify;">TalkTalk, alongside its partners Sky and CityFibre, were delighted to choose York as the first UK City in which to deploy their Ultrafast Fibre network. York shares their passion for how digital technology can transform society and impressed them with its clear vision and drive to become the Digital Capital of the North</p>
-            <p align="right"><i>- Chief Executive Officer, TalkTalk Group -</i></p>
+            <h2 class="center brown-text"><i class="material-icons">business_center</i></h2>
+            <h5 class="center">Business development</h5>
+            <div style="padding-left: 400px" id="chart2_div"></div>
+          </div>
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">all_inclusive</i></h2>
+            <h5 class="center">Employment rate</h5>
+            <div id="chart3_div" style="width: 1500px; height: 700px; padding-left: 350px"></div>
           </div>
         </div>
-      </div>
-  
+  </div>
+
   <footer class="page-footer teal">
     <div class="container">
       <div class="row">
@@ -166,7 +172,7 @@
 
         </div>
         <div class="col l3 s12">
-          <h5 class="white-text">Settings</h5>
+          <h5 class="white-text">Sources</h5>
           <ul>
             <li><a class="white-text" href="#!">Link 1</a></li>
             <li><a class="white-text" href="#!">Link 2</a></li>

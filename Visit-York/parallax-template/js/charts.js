@@ -44,12 +44,13 @@ function drawBasic() {
           }
         },
         vAxis: {
-          title: 'Population'
-        }
+          title: 'Population',
+        },
+          colors: ['#4db6ac']
       };
 
       var data = google.visualization.arrayToDataTable([
-        ['Year', 'Population' ],
+        ['Year', 'Population'],
         ['2018', 211975],
         ['2019', 213356],
         ['2020', 214615],
@@ -79,3 +80,60 @@ function drawBasic() {
 
       chart.draw(data, options);
     }
+
+google.charts.setOnLoadCallback(drawStacked);
+
+function drawStacked() {
+      var data = google.visualization.arrayToDataTable([
+        ['Year', 'Businesses', 'Business Births' ],
+        ['2011', 7765, 570],
+        ['2012', 7870, 655],
+        ['2013', 8010, 720],
+        ['2014', 8135, 945],
+        ['2015', 8105, 880],
+        ['2016', 8610, 830],
+        ['2017', 8790, 830]
+      ]);
+
+      var options = {
+        width: 1000,
+        height: 400,
+        legend: { position: 'top', maxLines: 3 },
+        bar: { groupWidth: '75%' },
+        isStacked: true,
+        colors: ['#4db6ac', 'red']
+      };
+
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart2_div'));
+      chart.draw(data, options);
+    }
+
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawVisualization);
+
+      function drawVisualization() {
+        // Some raw data (not necessarily accurate)
+        var data = google.visualization.arrayToDataTable([
+         ['Year', 'Male', 'Female'],
+         ['2010',  75.6, 68.5],
+         ['2011',  75.8, 72.2],
+         ['2012',  76.7, 73.1],
+         ['2013',  77.1, 74.5],
+         ['2014',  77.9, 76.5],
+         ['2015',  80, 77.1],
+         ['2016',  80.5, 77.5],
+         ['2017',  82.2, 78.6]
+      ]);
+
+    var options = {
+      title : 'Employment rate by gender',
+      vAxis: {title: 'Employment rate %'},
+      hAxis: {title: 'Year'},
+      seriesType: 'bars',
+      series: {5: {type: 'line'}}
+    };
+
+    var chart = new google.visualization.ComboChart(document.getElementById('chart3_div'));
+    chart.draw(data, options);
+  }
+
