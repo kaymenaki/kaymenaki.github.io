@@ -1,0 +1,124 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: #4db6ac;
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.upp {
+    height: 700px;
+    position: relative;
+
+    -moz-animation-name: dropHeader;
+    -moz-animation-iteration-count: once;
+    -moz-animation-timing-function: ease-in;
+    -moz-animation-duration: 0.9s;
+
+    -webkit-animation-name: dropHeader;
+    -webkit-animation-iteration-count: once;
+    -webkit-animation-timing-function: ease-in;
+    -webkit-animation-duration: 0.9s;
+}
+@-moz-keyframes dropHeader {
+    0% {
+        top: -700px;
+    }
+    100% {
+        top: 0;
+    }
+}
+@-webkit-keyframes dropHeader {
+    0% {
+        top: -700px;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+
+.down {
+    height: 667px;
+    position: relative;
+
+    -moz-animation-name: dropFooter;
+    -moz-animation-iteration-count: once;
+    -moz-animation-timing-function: ease-in;
+    -moz-animation-duration: 0.9s;
+
+    -webkit-animation-name: dropFooter;
+    -webkit-animation-iteration-count: once;
+    -webkit-animation-timing-function: ease-in;
+    -webkit-animation-duration: 0.9s;
+}
+@-moz-keyframes dropFooter {
+    0% {
+        top: 667px;
+    }
+    100% {
+        top: 0;
+    }
+}
+@-webkit-keyframes dropFooter {
+    0% {
+        top: 667px;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+
+
