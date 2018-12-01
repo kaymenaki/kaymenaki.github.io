@@ -89,6 +89,10 @@ Main Components
 
 -------------------------------- */
 
+.shadow {
+box-shadow: 2px 2px 15px #888888;
+}
+
 .cd-horizontal-timeline a {
   text-decoration: none;
 }
@@ -490,4 +494,7 @@ Main Components
     transform: translateX(0%);
   }
 }
+
+
+
 
