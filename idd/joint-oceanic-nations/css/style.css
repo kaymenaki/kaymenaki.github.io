@@ -496,5 +496,13 @@ box-shadow: 2px 2px 15px #888888;
 }
 
 
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
 
 
