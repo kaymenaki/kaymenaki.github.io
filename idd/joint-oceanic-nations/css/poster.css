@@ -51,9 +51,7 @@
   left:0;
   pointer-events:none;
   overflow: hidden;
-  &>img{
-    height:100%;
-  }
+  
 }
 
 .top{
