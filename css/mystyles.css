@@ -1,21 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 
-h2 {
-  @-webkit-keyframes fadeInDown {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, -100%, 0);
-    transform: translate3d(0, -100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-}
 
 .dot {
   height: 35px;
