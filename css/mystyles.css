@@ -2,13 +2,13 @@
 
 
 .dot {
-  height: 40px;
-  width: 40px;
+  height: 20px;
+  width: 20px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
   -webkit-text-fill-color: transparent;
-  -webkit-animation: colored 40s infinite linear;
+  -webkit-animation: colored 10s infinite linear;
   background-image: -webkit-linear-gradient(90deg, #f35626, #feab3a);
 }
 @-webkit-keyframes colored {
