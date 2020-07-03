@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Eirini Kaymenaki - Blog</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Eirini Kaymenaki</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/district.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Why should I develop a DSL?</h1>
+
+            <blockquote class="blockquote">Every great design begins with an even better story.
+            <br>- Lorinda Mamo, Designer / Creative Director</blockquote>
+            <span class="meta">Posted by
+              <a href="#">Eirini Kaymenaki</a>
+              on May 28, 2020</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>While started working on this project, and before I deep dive into literature, I started wondering why should I develop a DSL not only on the user journey discipline, but why a DSL overall? I came across an article on LinkedIn posted by Markus Voelter. The article is more software engineering oriented, however, below I am highlighting some points that attracted my attention.
+          </p>
+
+          <h2 class="section-heading">A Suitable Domain</h2>
+          <p>If your domain has one or more of the following characteristics, these are good signs for benefiting from a domain specific language.
+          </p>
+          <p><b>Richness and Variety</b> Is the domain suitably deep, does it have enough intricacies and variety? Is it timeless to some degree? Are there people who are experts in the domain, who have spent half a life understanding it? Is there a rich vocabulary and specific notations? Would non-trivial analyses be helpful to users?
+          </p>
+          <p><b>Boilerplate and Fanout</b> Some software platforms require a lot of boilerplate code to use them correctly. In other cases, lots of derived artifacts — such as documentation, design diagrams or coverage reports — are necessary to comply with a particular process. Both cases are excellent opportunities to describe things once, at a suitable level of abstraction, and then automatically generate code and documents.
+          </p>
+          <p><b>Platform Independence</b> Another driver for DSLs (and code generation) is the need to run the same domain logic on different platforms. Either in parallel (e.g., server and phone) or over time (e.g., your systems' functionalities lives longer than the technology of the day), and you don't want to reverse-engineer things over and over again.
+          </p>
+
+          <h2 class="section-heading">A Suitable Business Model</h2>
+
+          <p>If I want to expand my question to a business level, then one or more of the following characteristics can benefit the usefulness of DSL.
+          </p>
+          <p><b>A Medium-term Outlook</b> A DSL is not rocket science, but it is an asset that will pay itself back over time. How long the amortization takes depends primarily on the increase in efficiency you gain from using the DSL vs. the investment for its development. But if your business focuses only on the current quarter then it's hard to make it work.
+          </p>
+          <p><b>Benefit from Effectivity</b> If you are a solution provider and sell time, people or effort, then an increased effectiveness of your development effort might not be terribly useful. If you sell products and want to release on a shorter cycle, or if you develop systems internally and want to accelerate your business agility, a DSL might be a great investment.
+          </p>
+          <p><b>A Degree of Sameness</b> Like a framework or a library, a DSL embodies a set of abstractions that you use all the time in your work: if each of your products or projects is in a different domain, it is harder to justify the development of a language for that domain — and you might also not have the deep experience. In contrast, if you develop digital therapeutics apps, satellites or payroll software all the time, then investing into making this more efficient is great!
+          </p>
+
+          <h2 class="section-heading">The Development Organization</h2>
+
+          <p>Development discipline couldn't be missed from these considerations
+          </p>
+          <p><b>Technical Maturity</b> Developing a DSL (and using it at the same time) requires a certain maturity in your internal development process: you'll have to manage the requirements for the language, develop it incrementally, ensure quality and regularly release it to your users. If you and your teams struggle with build automation or unit testing, developing a DSL might be a jump too far. On the other hand, if you have done plaform- or framework-based development in the past, a DSL is a logical next step.
+          </p>
+          <p><b>Willingness and Ability to Change</b> A DSL moves the "threshold of formlization" earlier in the development process. This is likely a significant change in the process. It requires people to change, to learn new skills and to go through some temporary period of reduced productivity as they learn the new approach. The technical developers have to learn how to develop languages and gnerators, both skills that are not too widespread. Everybody needs to be on board to harvest the benefits of the approach.
+          </p>
+
+          <h2 class="section-heading">The Development Organization</h2>
+
+          <p>All of these considerations are based on what's on the decade of language development many with customers and various domains. Which of these criteria, do you think, are the hardest to meet in practice? The domain is usually not a problem. Most domains I have come across can benefit from DSLs. Not all of course. The biggest problem is usually (1) the medium term outlook, where companies are not willing to make an investment, and (2) the willingness and ability to change, where management wants to make the investment, but the organization resists.
+          </p>
+          <cite 
+          ><a class="text-muted" href="https://www.linkedin.com/pulse/should-you-develop-dsl-markus-voelter/?trackingId=%2F6%2FzXmz5%2FSuTDg%2BOE8WvpQ%3D%3D">Markus Voelter, Independent Consultant at voelter - May 2020</a> 
+          </cite>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-mouse-pointer fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; Eirini Kaymenaki 2020</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
