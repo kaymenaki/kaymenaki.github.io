@@ -47,7 +47,7 @@
   // Magnific popup calls
   $('#portfolio').magnificPopup({
     delegate: 'a',
-    type: 'image',
+    type: 'iframe',
     tLoading: 'Loading image #%curr%...',
     mainClass: 'mfp-img-mobile',
     gallery: {
